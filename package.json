@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz en js",
+  "main": "fizbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickamess/fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickamess/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/mickamess/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
